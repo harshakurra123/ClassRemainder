@@ -18,5 +18,9 @@
 - Postgresql
 - React js
 
+## Client
+Name: Dr. Dennis Case
+Email: dcase@nwmissouri.edu
+Phone: 660.562.1136
 
 

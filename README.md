@@ -7,10 +7,10 @@
 - Second screen displays list of all upcoming classes with time and room number.
 
 ## **Team Members**
-1. HARSHAVARDHAN KURRA
-2. MANOJ NUVVALA
-3. SAI KIRAN REDDY ENUGALA
-4. HEMANTH VENKATA REDDY TELLURI
+1. HARSHAVARDHAN KURRA - Backend Developer
+2. MANOJ NUVVALA - Frontend Developer
+3. SAI KIRAN REDDY ENUGALA - Tester
+4. HEMANTH VENKATA REDDY TELLURI - Team Lead
 
 ## Requirements
 - Python
@@ -22,5 +22,7 @@
 Name: Dr. Dennis Case <br>
 Email: dcase@nwmissouri.edu <br>
 Phone: 660.562.1136 <br>
+
+
 
 

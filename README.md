@@ -11,3 +11,12 @@
 2. MANOJ NUVVALA
 3. SAI KIRAN REDDY ENUGALA
 4. HEMANTH VENKATA REDDY TELLURI
+
+## Requirements
+- Python
+- Django
+- Postgresql
+- React js
+
+
+

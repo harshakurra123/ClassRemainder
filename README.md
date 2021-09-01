@@ -23,6 +23,10 @@ Name: Dr. Dennis Case <br>
 Email: dcase@nwmissouri.edu <br>
 Phone: 660.562.1136 <br>
 
-
-
+## Database Tables
+- User
+  - Student
+  - Teacher
+- Class Details
+- Classroom Details
 

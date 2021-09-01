@@ -19,8 +19,8 @@
 - React js
 
 ## Client
-Name: Dr. Dennis Case
-Email: dcase@nwmissouri.edu
-Phone: 660.562.1136
+Name: Dr. Dennis Case <br>
+Email: dcase@nwmissouri.edu <br>
+Phone: 660.562.1136 <br>
 
 

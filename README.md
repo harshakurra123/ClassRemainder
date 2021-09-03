@@ -36,4 +36,6 @@ Phone: 660.562.1136 <br>
   - End Time
   - Date
   
-
+## References
+- [Django Documentation](https://docs.djangoproject.com/en/3.2/)
+- [Python Documentation](https://docs.python.org/3/tutorial/)

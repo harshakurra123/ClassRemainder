@@ -25,8 +25,15 @@ Phone: 660.562.1136 <br>
 
 ## Database Tables
 - User
-  - Student
-  - Teacher
-- Class Details
-- Classroom Details
+  - Name
+  - Address
+  - Designation
+- Class Schedule Details
+  - Classroom Number
+  - Subject
+  - User
+  - Start Time
+  - End Time
+  - Date
+  
 

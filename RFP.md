@@ -44,3 +44,19 @@ Phone: 660.562.1136 <br>
 
 ## Entity Relationship Diagram
 ![erdiagram](images/erdiagram.png)
+
+## API's required
+- User - POST, GET, PUT, DELETE
+  - POST - API for adding user to the system.
+  - GET - API for getting list of Users.
+  - PUT - API for updating data of user.
+  - DELETE - API for deleting users.
+
+- ClassroomSchedule - POST, GET, UPDATE, DELETE
+  - POST - API to schedule a class to the user.
+  - GET - API to get the class assosiated to the user.
+  - PUT - API to change the class assosiated to the user.
+  - DELETE - API to delete class schedule of user.
+
+
+

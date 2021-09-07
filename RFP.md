@@ -30,3 +30,5 @@ Phone: 660.562.1136 <br>
 - Class Details
 - Classroom Details
 
+## Entity Relationship Diagram
+![erdiagram](images/erdiagram.png)

@@ -25,10 +25,22 @@ Phone: 660.562.1136 <br>
 
 ## Database Tables
 - User
-  - Student
-  - Teacher
+  - id
+  - name
+  - role
+  - is_delete
 - Class Details
+  - id
+  - user_id
+  - classroom_id
+  - start_time
+  - end_time
+  - is_delete
 - Classroom Details
+  - id
+  - room_number
+  - subject
+  - is_delete
 
 ## Entity Relationship Diagram
 ![erdiagram](images/erdiagram.png)

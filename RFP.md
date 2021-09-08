@@ -73,6 +73,8 @@ Phone: 660.562.1136 <br>
 ## GUI
   ### LOGIN SCREEN  
   ![LOGIN_PAGE](images/loginwithlogo.jpg)
+  ### Screen1
+  ![Screen1](images/Screen1.jpg)
 
 
 

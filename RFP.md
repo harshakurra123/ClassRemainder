@@ -70,3 +70,9 @@ Phone: 660.562.1136 <br>
 | Testing | 16-mar-2022 | 31-mar-2022 |
 | Deployment | 01-apr-2022 | 15-apr-2022 |
 
+## GUI
+  ### LOGIN SCREEN  
+  ![LOGIN_PAGE](images/loginwithlogo.jpg)
+
+
+

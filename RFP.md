@@ -79,6 +79,11 @@ Phone: 660.562.1136 <br>
 1.	Your profile link to navigate to user details.
 2.	Logout button to logout of the application.
 
+### Bidder Qualifications
+- BIDDER is thoroughly familiar with all provisions and requirements of the Documents and the conditions under which the Work is to be performed.
+- BIDDER finds that the proposed Contract Documents are complete, and that they are appropriate for the full, proper, and timely performance of the proposed Application.
+- BIDDER possesses and commits to the OWNER the technical knowledge, practical experience, management skills.
+
 
 ## Schedule Duration
 1. Start Date - 18-aug-2021

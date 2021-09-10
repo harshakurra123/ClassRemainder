@@ -57,6 +57,10 @@ Phone: 660.562.1136 <br>
   - GET - API to get the class assosiated to the user.
   - PUT - API to change the class assosiated to the user.
   - DELETE - API to delete class schedule of user.
+ 
+## Schedule Duration
+1. Start Date - 18-aug-2021
+2. End Date - 31-mar-2022
 
 ## Schedule
 | Task | Start | End |

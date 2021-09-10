@@ -60,7 +60,26 @@ Phone: 660.562.1136 <br>
   - GET - API to get the class assosiated to the user.
   - PUT - API to change the class assosiated to the user.
   - DELETE - API to delete class schedule of user.
- 
+
+## Functional Requirements
+
+### Home Screen:
+1.	API to get the upcoming class with room number and time.
+2.	Button to redirect to list of upcoming classes.
+3.	Add class button to add new class (subject, time and date, room number).
+### Classes List Screen:
+1.	API to display list of all upcoming classes.
+2.	Edit button for each class to edit class details.
+3.	Delete button for each class to delete a class.
+### Login Page:
+1.	Text fields to enter username and password.
+2.	Button for authenticating into the application.
+3.	Forgot password link, to reset the password.
+### Header:
+1.	Your profile link to navigate to user details.
+2.	Logout button to logout of the application.
+
+
 ## Schedule Duration
 1. Start Date - 18-aug-2021
 2. End Date - 31-mar-2022

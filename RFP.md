@@ -7,10 +7,13 @@
 - Second screen displays list of all upcoming classes with time and room number.
 
 ## **Team Members**
-1. HARSHAVARDHAN KURRA - Backend Developer
-2. MANOJ NUVVALA - Frontend Developer
-3. SAI KIRAN REDDY ENUGALA - Tester
-4. HEMANTH VENKATA REDDY TELLURI - Team Lead
+| S No | Members                                                            | Roles              | Contact                |
+|------|--------------------------------------------------------------------|--------------------|------------------------|
+| 1    | [HARSHAVARDHAN KURRA](https://github.com/harshakurra123)           | Backend Developer  | S542409@nwmissouri.edu |
+| 2    | [MANOJ NUVVALA](https://github.com/manojnuvvala)                   | Frontend Developer | S541998@nwmissouri.edu |
+| 3    | [SAI KIRAN REDDY ENUGALA](https://github.com/saikiranreddyenugala) | Tester             | S542041@nwmissouri.edu |
+| 4    | [HEMANTH VENKATA REDDY TELLURI](https://github.com/hemanth8056)    | Team Lead          | S542393@nwmissouri.edu |
+
 
 ## Requirements
 - Python
@@ -77,6 +80,10 @@ Phone: 660.562.1136 <br>
   ![Screen1](images/Screen1.jpg)
   ### Screen2
   ![Screen2](images/Screen2.jpg)
+
+## Reference
+   
+   
 
 
 

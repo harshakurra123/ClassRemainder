@@ -66,9 +66,10 @@ Phone: 660.562.1136 <br>
 | UI Designs | 06-oct-2021 | 05-nov-2021 |
 | Cost & Schedule | 06-nov-2021 | 05-dec-2021 |
 | Setup of Project | 12-jan-2022 | 15-feb-2022 |
-| Coding | 16-feb-2022 | 15-mar-2022 |
-| Testing | 16-mar-2022 | 31-mar-2022 |
-| Deployment | 01-apr-2022 | 15-apr-2022 |
+| Coding | 16-feb-2022 | 28-feb-2022 |
+| Testing | 01-mar-2022 | 15-mar-2022 |
+| Deployment | 16-mar-2022 | 31-mar-2022 |
+
 
 ## GUI
   ### Screen1

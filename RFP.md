@@ -71,12 +71,12 @@ Phone: 660.562.1136 <br>
 | Deployment | 01-apr-2022 | 15-apr-2022 |
 
 ## GUI
-  ### LOGIN SCREEN  
-  ![LOGIN_PAGE](images/loginwithlogo.jpg)
   ### Screen1
   ![Screen1](images/Screen1.jpg)
   ### Screen2
   ![Screen2](images/Screen2.jpg)
-
+  ### LOGIN SCREEN  
+  ![LOGIN_PAGE](images/loginwithlogo.jpg)
+  
 
 
